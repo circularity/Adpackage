@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HSdk</string>
+    <string name="facebook_app_id">652302905240772</string>
+    <string name="admob_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+
+
+</resources>
